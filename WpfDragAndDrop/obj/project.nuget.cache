@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SlqV/U66OAaG4Cou+E1XQpAvUW67i8heHPeN8UIK8iGATzHwJ+zird3KDVHFdREb9COxPwbRbwpJFwzYuCPrPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gilon\\Desktop\\Cielo\\WPF_Application\\WpfDragAndDrop\\WpfDragAndDrop\\WpfDragAndDrop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gilon\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Gilon\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
